@@ -1,0 +1,16 @@
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\bin\Debug\net5.0\ListsCommands.exe
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\bin\Debug\net5.0\ListsCommands.deps.json
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\bin\Debug\net5.0\ListsCommands.runtimeconfig.json
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\bin\Debug\net5.0\ListsCommands.runtimeconfig.dev.json
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\bin\Debug\net5.0\ListsCommands.dll
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\bin\Debug\net5.0\ref\ListsCommands.dll
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\bin\Debug\net5.0\ListsCommands.pdb
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\obj\Debug\net5.0\ListsCommands.csprojAssemblyReference.cache
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\obj\Debug\net5.0\ListsCommands.GeneratedMSBuildEditorConfig.editorconfig
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\obj\Debug\net5.0\ListsCommands.AssemblyInfoInputs.cache
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\obj\Debug\net5.0\ListsCommands.AssemblyInfo.cs
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\obj\Debug\net5.0\ListsCommands.csproj.CoreCompileInputs.cache
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\obj\Debug\net5.0\ListsCommands.dll
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\obj\Debug\net5.0\ref\ListsCommands.dll
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\obj\Debug\net5.0\ListsCommands.pdb
+B:\C#\Classe e Objeto\ListsCommands\ListsCommands\obj\Debug\net5.0\ListsCommands.genruntimeconfig.cache
